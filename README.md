@@ -6,8 +6,11 @@
 - 💼 &nbsp; Working as an Undergraduate Researcher in Protein Engineering at UT
 - 🌱 &nbsp; Learning more about Web Development, Machine Learning, and all things comp sci
 
-<h3> 🛠 &nbsp;Projects</h3>
+<h3> 🛠 &nbsp;My Top Projects</h3>
 
+- &nbsp; [Huewind](https://github.com/jordantwells42/huewind): A Tailwind CSS palette generator 
+- &nbsp; [Protein Viewer](https://github.com/jordantwells42/protein-viewer): A protein crystal structure viewer 
+- &nbsp; [They're a 10 but...](https://github.com/jordantwells42/tenbut): A web app based off the popular TikTok trend
 
 <br/>
 
