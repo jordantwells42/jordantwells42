@@ -6,13 +6,6 @@
 - 💼 &nbsp; Working as an Undergraduate Researcher in Protein Engineering at UT
 - 🌱 &nbsp; Learning more about Web Development, Machine Learning, and all things comp sci
 
-<h3> 🛠 &nbsp;My Top Projects</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=huewind)](https://github.com/jordantwells42/huewind)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=jordantwells-next)](https://github.com/jordantwells42/jordantwells-next)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=tenbut)](https://github.com/jordantwells42/tenbut)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=protein-viewer)](https://github.com/jordantwells42/protein-viewer)
-
 
 <br/>
 
