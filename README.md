@@ -13,9 +13,9 @@
 
 **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)]
-  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)]
-  [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white)]
-  [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white)]
+  [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas)]
+  [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white)]
+  [![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat&logo=Scipy&logoColor=white)]
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white)]
 
 
