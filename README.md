@@ -11,20 +11,20 @@
 
 <h3> 💻 &nbsp;Skills </h3>
 
-**Python**:
+
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)]
   [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas)]
   [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white)]
   [![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat&logo=Scipy&logoColor=white)]
-  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white)]
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib&logoColor=white)]
 
 
-  **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)]
-  [![Next](https://img.shields.io/badge/-Nextjs-black?style=flat&logo=next.js)]
+  [![Next](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)]
   [![tRPC](https://img.shields.io/badge/-tRPC-black?style=flat&logo=tRPC)]
-  [![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-black?style=flat&logo=tailwindcss)]
+  [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)]
+  [![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=threedotjs)]
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
