@@ -8,15 +8,17 @@
 
 <h3> 🛠 &nbsp;My Top Projects</h3>
 
-- &nbsp; [Huewind](https://github.com/jordantwells42/huewind): A Tailwind CSS palette generator 
-- &nbsp; [Protein Viewer](https://github.com/jordantwells42/protein-viewer): A protein crystal structure viewer 
-- &nbsp; [They're a 10 but...](https://github.com/jordantwells42/tenbut): A web app based off the popular TikTok trend
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=huewind)](https://github.com/jordantwells42/huewind)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=jordantwells-next)](https://github.com/jordantwells42/jordantwells-next)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=tenbut)](https://github.com/jordantwells42/tenbut)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordantwells42&repo=protein-viewer)](https://github.com/jordantwells42/protein-viewer)
+
 
 <br/>
 
 <a href="https://github.com/jordantwells42">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordantwells42&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordantwells42&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordantwells42&theme=vue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordantwells42&theme=vue&layout=compact" />
 </a>
 
 <br/>
