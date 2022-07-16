@@ -32,9 +32,10 @@
 
 <p align="center">
 <a href="https://jordantwells.com"><img alt="Website" src="https://img.shields.io/badge/Website-https://jordantwells.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:jordantwells@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jordantwells@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/jordantwells/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jordan%20Wells-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jordanwhaless/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jordanwhaless-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jordantwells@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jordantwells@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
 
 <br/>
